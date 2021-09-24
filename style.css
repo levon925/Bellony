@@ -1,0 +1,1066 @@
+body {
+position: relative;
+width: 1000px;
+height: 3697px;
+
+background: #2D2D2D;
+}
+
+.menu{
+position: absolute;
+width: 1400px;
+height: 36.04px;
+left: 100px;
+top: 35px;
+}
+.group-335{
+  /* Group 335 */
+
+
+position: absolute;
+width: 26px;
+height: 25.04px;
+left: 1374px;
+top: 11px;
+}
+.zero{
+  /* 0 */
+
+
+position: absolute;
+width: 10px;
+height: 20px;
+text-align:center;
+left:8px;
+top:3px;
+
+
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+.ellipse-7{
+  /* Ellipse 7 */
+
+
+position: absolute;
+width: 26px;
+height: 26px;
+border-radius: 50%;
+
+
+background: #BA6464;
+}
+.bag{
+  /* BAG */
+
+
+position: absolute;
+width: 32px;
+height: 20px;
+left: 1334px;
+top:14px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.group-334{
+  /* Group 334 */
+
+
+position: absolute;
+width: 493px;
+height: 20px;
+left: 456px;
+top: 14px;
+}
+.shops{
+  /* Shops */
+
+
+position: absolute;
+width: 52px;
+height: 20px;
+left:441px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height, or 118% */
+
+
+color: #FFFFFF;
+z-index:-1;
+}
+.cover{
+  /* Cover */
+
+
+position: absolute;
+width: 1600px;
+height: 773px;
+left: -27px;
+top: 172px;
+
+}
+.categories{
+  /* Categories */
+
+
+position: absolute;
+width: 1401px;
+height: 1438px;
+left: 100px;
+top: 1145px;
+}
+.reviews{
+  /* Reviews */
+
+
+position: absolute;
+width: 1401px;
+height: 728px;
+left: 100px;
+top: 2782px;
+}
+.bellony{
+  /* BELLONY */
+
+
+position: absolute;
+width: 90px;
+height: 34px;
+
+
+font-family: Mandali;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.catalog{
+  /* Catalog */
+
+
+position: absolute;
+width: 64px;
+height: 20px;
+
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height, or 118% */
+
+
+color: #FFFFFF;
+}
+
+
+
+
+.collections{
+
+/* Сollections */
+
+
+position: absolute;
+width: 91px;
+height: 20px;
+
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height, or 118% */
+
+
+color: #FFFFFF;
+}
+.styles{
+  /* Styles */
+
+
+position: absolute;
+width: 51px;
+height: 20px;
+left:348px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height, or 118% */
+
+
+color: #FFFFFF;
+}
+.group-333{
+  /* Group 333 */
+
+
+position: absolute;
+width: 91px;
+height: 20px;
+left:209px
+
+
+}
+.group-331{
+  /* Group 331 */
+
+
+position: absolute;
+width: 64px;
+
+}
+.group-332{
+  /* Group 332 */
+
+
+position: absolute;
+width: 56px;
+left:108px
+
+
+
+}
+.rooms{
+  /* Rooms */
+
+
+position: absolute;
+width: 56px;
+height: 20px;
+
+
+
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height, or 118% */
+
+
+color: #FFFFFF;
+}
+.rectangle-130{
+  position: absolute;
+width: 133px;
+height: 368px;
+left: 1467px;
+top: 361px;
+
+background: url(images/Rectangle-130.png);
+}
+.rectangle-129{
+  /* Rectangle 129 */
+
+
+position: absolute;
+width: 287px;
+height: 195px;
+left: 1150px;
+top: 470px;
+
+background: url(images/Rectangle-129.png);
+}
+.rectangle-128{
+position: absolute;
+width: 320px;
+height: 411px;
+left: 800px;
+top: 362px;
+
+background: url(images/Rectangle-128.png);
+}
+.rectangle-127{
+  position: absolute;
+  width: 511px;
+  height: 421px;
+  left: 259px;
+  top: 308px;
+  z-index: -1;
+
+  background: url(images/Rectangle-127.png);
+}
+.rectangle-126{
+  /* Rectangle 126 */
+
+
+  position: absolute;
+  width: 229px;
+  height: 385px;
+  left: 0px;
+  top: 362px;
+
+  background: url(images/Rectangle-126.png);
+}
+.title{
+  /* Title */
+
+
+position: absolute;
+width: 1065px;
+height: 336px;
+left: 268px;
+top: 0px;
+
+}
+.modern{
+  /* Modern */
+
+
+position: absolute;
+width: 464px;
+height: 106px;
+left: 301px;
+top: 0px;
+
+font-family: Ogg;
+font-style: normal;
+font-weight: normal;
+font-size: 110px;
+line-height: 96%;
+/* identical to box height, or 106px */
+
+letter-spacing: -0.03em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.furniture-made-of{
+  /* furniture made of */
+
+
+position: absolute;
+width: 1270px;
+height: 106px;
+left:0px;
+top: 115px;
+
+font-family: Ogg;
+font-style: normal;
+font-weight: normal;
+font-size: 110px;
+line-height: 96%;
+/* identical to box height, or 106px */
+
+letter-spacing: -0.03em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.natural-wood{
+  /* natural wood */
+
+
+position: absolute;
+width: 890px;
+height: 106px;
+left: 103px;
+top: 230px;
+
+
+
+font-family: Ogg;
+font-style: normal;
+font-weight: normal;
+font-size: 110px;
+line-height: 96%;
+/* identical to box height, or 106px */
+
+letter-spacing: -0.03em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+@font-face {
+  font-family: "Ogg";
+  src: url("fonts/Ogg-Roman.otf");
+  font-style: normal;
+  font-weight: normal;
+}
+.explore-our-categories{
+  /* Explore our categories */
+
+
+position: absolute;
+width: 481px;
+height: 156px;
+
+
+font-family: Ogg;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 130%;
+/* or 78px */
+
+letter-spacing: -0.03em;
+
+color: #FFFFFF;
+}
+.right-drawn-arrow-1{
+  /* Categories */
+
+
+  /* right-drawn-arrow 1 */
+
+
+  position: absolute;
+  width: 157px;
+  height: 157px;
+  left: 141px;
+  top: 221px;
+  background: url(images/right-drawn-arrow-1.png);
+}
+div.tables-and-chairs{
+  /* Tables and chairs */
+
+
+position: absolute;
+width: 440px;
+height: 683px;
+left: 481px;
+}
+.rectangle-110{
+  /* Rectangle 110 */
+
+
+  position: absolute;
+  width: 440px;
+  height: 620px;
+
+
+  background: url(images/Rectangle-110.png);
+}
+text.tables-and-chairs{
+  /* Tables and chairs */
+
+
+position: absolute;
+width: 257px;
+height: 45px;
+
+top: 638px;
+
+font-family: Ogg;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 130%;
+/* or 45px */
+
+letter-spacing: -0.03em;
+
+color: #FFFFFF;
+}
+div.beds{
+  /* Beds */
+
+
+position: absolute;
+width: 440px;
+height: 683px;
+left: 961px;
+
+}
+.rectangle-111{
+  /* Rectangle 111 */
+
+
+position: absolute;
+width: 440px;
+height: 620px;
+
+
+background: url(images/Rectangle-111.png);
+}
+text.beds{
+  /* Beds */
+
+
+position: absolute;
+width: 74px;
+height: 45px;
+top: 638px;
+
+font-family: Ogg;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 130%;
+/* or 45px */
+
+letter-spacing: -0.03em;
+
+color: #FFFFFF;
+}
+div.soft-furniture{
+  /* Soft furniture */
+
+
+position: absolute;
+width: 440px;
+height: 683px;
+
+top: 755px;
+}
+.rectangle-108{
+  /* Rectangle 108 */
+
+
+position: absolute;
+width: 440px;
+height: 620px;
+
+
+background: url(images/Rectangle-108.png);
+}
+text.soft-furniture{
+  /* Soft furniture */
+
+
+position: absolute;
+width: 287px;
+height: 45px;
+top: 638px;
+
+font-family: Ogg;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 130%;
+/* or 45px */
+
+letter-spacing: -0.03em;
+
+color: #FFFFFF;
+}
+div.decor{
+  /* Decor */
+
+
+position: absolute;
+width: 440px;
+height: 683px;
+top: 755px;
+left: 481px;
+}
+.rectangle-109{
+  /* Rectangle 109 */
+
+
+position: absolute;
+width: 440px;
+height: 620px;
+
+
+background: url(images/Rectangle-109.png);
+}
+text.decor{
+  /* Decor */
+
+
+position: absolute;
+width: 90px;
+height: 45px;
+top: 638px;
+
+font-family: Ogg;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 130%;
+/* or 45px */
+
+letter-spacing: -0.03em;
+
+color: #FFFFFF;
+}
+.button{
+  /* Button */
+
+
+position: absolute;
+width: 195px;
+height: 195px;
+left: 1113px;
+top: 995px;
+}
+.view-all{
+  /* View all */
+
+
+position: absolute;
+width: 143px;
+height: 20px;
+left: 26px;
+top: 87px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height, or 100% */
+
+text-align: center;
+
+color: #BA6464;
+}
+.ellipse-11{
+  position: absolute;
+width: 195px;
+height: 195px;
+
+
+border: 1px solid #BA6464;
+box-sizing: border-box;
+border-radius: 50%;
+}
+.what-say{
+  /* What people say about us */
+
+
+position: absolute;
+width: 481px;
+height: 162px;
+
+
+font-family: Ogg;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 140%;
+/* or 84px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.button-2{
+  /* button */
+
+
+position: absolute;
+width: 206px;
+height: 60px;
+left:1195px;
+top: 85px;
+}
+.frame-19{
+  /* Frame 19 */
+
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px 30px;
+
+position: absolute;
+
+
+
+background: #BA6464;
+border-radius: 10px;
+}
+.leave-review{
+  /* Leave review */
+
+
+position: static;
+width: 126px;
+height: 20px;
+left: 40px;
+top: 20px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height, or 100% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+}
+.first{
+  /* 1 */
+
+
+position: absolute;
+width: 440px;
+height: 380px;
+
+top: 226px;
+}
+.review{
+  /* review */
+
+
+position: absolute;
+width: 382px;
+height: 330px;
+left: 34px;
+top: 25px;
+
+}
+.first-order{
+  /* Order N21041 */
+
+
+position: absolute;
+width: 279px;
+height: 42px;
+
+
+font-family: Ogg;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 140%;
+/* identical to box height, or 42px */
+
+
+color: #FFFFFF;
+}
+.author{
+  /* autor */
+
+
+position: absolute;
+width: 207px;
+height: 70px;
+left: 0px;
+bottom:0px;
+}
+.dave{
+  /* Dave Faulkner */
+
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 90px;
+top: 11px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 140%;
+/* identical to box height, or 24px */
+
+
+color: #FFFFFF;
+}
+.ellipse-8{
+  /* Ellipse 8 */
+
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 0px;
+
+
+background: url(images/Ellipse-8.png);
+
+}
+.ellipse-1{
+  /* Ellipse 8 */
+
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 0px;
+
+
+background: url(images/Ellipse-1.png);
+}
+.ellipse-2{
+  /* Ellipse 8 */
+
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 0px;
+
+
+background: url(images/Ellipse-2.png);
+}
+.i-ordered{
+  /* “I ordered tables and chairs for our golf club dining room extension. A very helpful service prior to ordering and the delivery was very quick following our order with plenty of accurate info regarding date and time. Thanks.” */
+
+
+position: absolute;
+width: 382px;
+height: 168px;
+top: 62px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 140%;
+/* or 28px */
+
+
+color: #DADADA;
+}
+.rectangle-120{
+  /* Rectangle 120 */
+
+
+position: absolute;
+width: 440px;
+height: 380px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+}
+.second{
+  /* 2 */
+
+
+position: absolute;
+width: 440px;
+height: 380px;
+left: 481px;
+top: 226px;
+}
+.third{
+  /* 3 */
+
+
+position: absolute;
+width: 440px;
+height: 380px;
+left: 961px;
+top: 226px;
+}
+.stars{
+  /* Stars */
+
+
+position: absolute;
+width: 83px;
+height: 12px;
+left: 90px;
+top: 41px;
+}
+.star-1{
+  /* star 1 */
+  position: absolute;
+  width: 12px;
+  height: 12px;
+}
+.star-2{
+  /* star 1 */
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 18px;
+}
+.star-3{
+  /* star 1 */
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 36px;
+}
+.star-4{
+  /* star 1 */
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 54px;
+}
+.star-5{
+  /* star 1 */
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 72px;
+}
+.vector{
+
+  /* Vector */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.15%;
+bottom: 2.02%;
+
+background: url(images/Vector.png);
+}
+.slider{
+  /* Slider */
+
+
+position: absolute;
+width: 1400px;
+height: 42px;
+
+top: 686px;
+}
+.arrows{
+  /* arrows */
+
+
+position: absolute;
+width: 75px;
+height: 42px;
+
+}
+.next-2{
+  /* next (3) 2 */
+
+
+position: absolute;
+width: 12px;
+height: 20px;
+top: 11px;
+left:12.6px;
+background: url(images/Vector-2.png);
+transform: rotate(-180deg);
+
+
+
+
+}
+.next-1{
+  /* Group */
+  /* next (3) 2 */
+
+
+position: absolute;
+width: 12px;
+height: 20px;
+top: 11px;
+left:50.6px;
+background: url(images/Vector-2.png);
+
+
+}
+
+
+.group-339{
+  /* Group 339 */
+
+
+position: absolute;
+width: 75px;
+height: 42px;
+}
+.rectangle-121{
+  position: absolute;
+width: 38px;
+height: 42px;
+
+
+border: 1px solid #AFAFAF;
+box-sizing: border-box;
+}
+.rectangle-122{
+  /* Rectangle 122 */
+
+
+position: absolute;
+width: 38px;
+height: 42px;
+left: 37px;
+
+
+border: 1px solid #AFAFAF;
+box-sizing: border-box;
+}
+.group-343{
+  /* Group 343 */
+
+
+position: absolute;
+width: 1303px;
+height: 1px;
+left: 97px;
+top: 21px;
+}
+.rectangle-124{
+  /* Rectangle 124 */
+
+
+position: absolute;
+width: 384px;
+height: 1px;
+
+
+background: #FFFFFF;
+}
+.rectangle-123{
+  /* Rectangle 123 */
+
+
+position: absolute;
+width: 1303px;
+height: 1px;
+z-index: -1;
+
+
+background: #646464;
+}
